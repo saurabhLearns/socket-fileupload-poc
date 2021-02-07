@@ -16,7 +16,7 @@
 - Execute `ng server`
 - Client will be running on `localhost:4200` by default.
 
-### Working.
+### Working
 - Uploaded files will be stored in `public` directory.
 - To change the size of data chunk being uploaded in one go:
 	- Change the value on line number 45 in `/client/src/app/upload-file-socket.component.ts`
