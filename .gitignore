@@ -1,0 +1,23 @@
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+node_modules
+log.txt
+.DS_Store
+coverage
+.idea
+package-lock.json
+.nyc_output
+config/env-local.json
+report.*
+public

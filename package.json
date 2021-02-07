@@ -1,0 +1,19 @@
+{
+  "name": "poc-socket-fileupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "saurabh.jagtap@iauro.com",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "@angular/cli": "^11.1.2",
+    "@hapi/hapi": "^18.4.0",
+    "g": "^2.0.1",
+    "socket.io": "^2.2.0"
+  }
+}
